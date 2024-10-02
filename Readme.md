@@ -46,15 +46,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Metamorphosis21&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
 
-### Spotify:
-<div align="left">
-  <a href="https://open.spotify.com/user/317je4tgxzwkgubph4am3vcx6iwe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317je4tgxzwkgubph4am3vcx6iwe&count=3&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
-
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Biyatch&label=Profile%20Views&color=12&pretty=true" />
 </a>
