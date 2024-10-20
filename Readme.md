@@ -1,9 +1,9 @@
 ### 🙇 Ｈｅｌｌｏ　Ｔｈｅｒｅ　．．．
 
 - 🧑‍💻 I’m currently working on : *React Projects , Linear DSA*
-- 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA*
-- 👯 I’m looking to collaborate on : *FrontEnd WebSites*
-- 🤔 I’m looking for help with : *how to contribute in Open Source*
+- 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA , Backend ( Python , Django )*
+- 👯 I’m looking to collaborate on : *FrontEnd and Backend WebSites*
+- 🤔 I’m looking for help with : *how to contribute in Open Source , Fullstack websites*
 - 🤙 How to reach me : sai0binayak99@gmail.com
 - 😄 Pronouns : *He / Him / BatMan*
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
