@@ -1,13 +1,11 @@
 ### 🙇 Ｈｅｌｌｏ　Ｔｈｅｒｅ　．．．
 
-- 🧑‍💻 I’m currently working on : *React Projects , Linear DSA*
+- 🧑‍💻 I’m currently working on : *React Projects , Linear DSA , Fullstack Projects*
 - 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA , Backend ( Python , Django )*
-- 👯 I’m looking to collaborate on : *FrontEnd and Backend WebSites*
 - 🤔 I’m looking for help with : *how to contribute in Open Source , Fullstack websites*
 - 🤙 How to reach me : sai0binayak99@gmail.com
 - 😄 Pronouns : *He / Him / BatMan*
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
-
 
 ### 🈴 GitHub Stats:
 
@@ -17,7 +15,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Metamorphosis21&theme=midnight-purple&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 
-### Languages and Tools:
+### ⚙️ Languages and Tools:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,7 +44,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Metamorphosis21&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
 
-### Reach out to me:
+### 🎭 Reach out to me:
 <a href="https://www.linkedin.com/in/sai-binayak-17b900255/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
 <a href="https://github.com/Metamorphosis21"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
 <a href="https://x.com/Loliz_Oppai9"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
