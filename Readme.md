@@ -44,6 +44,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Metamorphosis21&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
 
+### 🎖️ Badges : 
+[![An image of @sai_binayak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sai_binayak)](https://holopin.io/@sai_binayak)
+
 ### 🎭 Reach out to me:
 <a href="https://www.linkedin.com/in/sai-binayak-17b900255/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
 <a href="https://github.com/Metamorphosis21"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
