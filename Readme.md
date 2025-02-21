@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I’m currently working on : *React Projects , Linear DSA , Django*
 - 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA , Backend ( Python , Django )*
-- 🤔 I’m looking for gelp with : *Internships , Fullstack Projects*
+- 🤔 I’m looking for help with : *Internships , Fullstack Projects*
 - 🤙 How to reach me : sai0binayak99@gmail.com
 - 😄 Pronouns : *He / Him*
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
