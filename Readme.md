@@ -12,9 +12,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metamorphosis21&theme=midnight-purple&show_icons=true&hide_border=true&border_radius=6&card_width=490)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Metamorphosis21&theme=midnight-purple&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-
-
 ### ⚙️ Languages and Tools:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
