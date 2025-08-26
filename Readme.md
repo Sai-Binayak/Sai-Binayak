@@ -50,9 +50,5 @@
 ### 🎭 Reach out to me:
 <a href="https://www.linkedin.com/in/sai-binayak-17b900255/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
 <a href="https://github.com/Metamorphosis21"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
-<a href="https://x.com/Loliz_Oppai9"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
 <a href="https://www.instagram.com/existence_in_crisis/profilecard/?igsh=MTZieml3OXZzOTAxbQ=="><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a> 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Biyatch&label=Profile%20Views&color=12&pretty=true" />
-</a>
