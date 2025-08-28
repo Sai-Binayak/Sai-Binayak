@@ -9,7 +9,7 @@
 
 ### 🈴 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metamorphosis21&theme=midnight-purple&show_icons=true&hide_border=true&border_radius=6&card_width=490)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Binayak&theme=midnight-purple&show_icons=true&hide_border=true&border_radius=6&card_width=490)
 
 
 ### ⚙️ Languages and Tools:
