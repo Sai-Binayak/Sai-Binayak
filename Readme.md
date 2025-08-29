@@ -4,7 +4,6 @@
 - 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA , Backend ( Python , Django )*
 - 🤔 I’m looking for help with : *Internships , Fullstack Projects*
 - 🤙 How to reach me : sai0binayak99@gmail.com
-- 😄 Pronouns : *He / Him*
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
 
 ### 🈴 GitHub Stats:
