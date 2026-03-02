@@ -1,7 +1,7 @@
 ### 🙇 Ｈｅｌｌｏ　Ｔｈｅｒｅ　．．．
 
-- 🧑‍💻 I’m currently working on : *React Projects , Linear DSA , Django*
-- 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA , Backend ( Python , Django )*
+- 🧑‍💻 I’m currently working on : *System design, Microservices*
+- 🧠 I’m currently learning : *Typescript, Docker, Ml models*
 - 🤔 I’m looking for help with : *Internships , Fullstack Projects*
 - 🤙 How to reach me : sai0binayak99@gmail.com
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
