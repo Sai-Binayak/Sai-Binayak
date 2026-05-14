@@ -5,11 +5,14 @@
 - 🤔 I’m looking for help with : *Internships , Fullstack Projects*
 - 🤙 How to reach me : sai0binayak99@gmail.com
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
+- 
+
+
+
 
 ### 🈴 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sai-Binayak&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Sai-Binayak&theme=blue_navy&hide_border=true)<br/>
-
 
 
 ### ⚙️ Languages and Tools:
@@ -27,10 +30,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br/>
 <br/>
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sai-Binayak&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>  -->
-
-
 
 ### 🎭 Reach out to me:
 <a href="https://www.linkedin.com/in/sai-binayak-17b900255/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
