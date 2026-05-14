@@ -1,0 +1,194 @@
+<svg width="680" height="240" viewBox="0 0 680 240" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Sai Binayak — GitHub Profile Banner</title>
+  <desc>Retro terminal banner with falling particle rain and smooth character-by-character typing</desc>
+  <defs>
+    <style>
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes fadein { from{opacity:0} to{opacity:1} }
+      @keyframes fall1 { 0%{transform:translateY(-30px);opacity:0} 10%{opacity:.7} 90%{opacity:.5} 100%{transform:translateY(270px);opacity:0} }
+      @keyframes fall2 { 0%{transform:translateY(-30px);opacity:0} 10%{opacity:.5} 90%{opacity:.4} 100%{transform:translateY(270px);opacity:0} }
+      @keyframes fall3 { 0%{transform:translateY(-30px);opacity:0} 10%{opacity:.8} 90%{opacity:.6} 100%{transform:translateY(270px);opacity:0} }
+      @keyframes fall4 { 0%{transform:translateY(-30px);opacity:0} 10%{opacity:.4} 90%{opacity:.3} 100%{transform:translateY(270px);opacity:0} }
+      @keyframes fall5 { 0%{transform:translateY(-30px);opacity:0} 10%{opacity:.9} 90%{opacity:.7} 100%{transform:translateY(270px);opacity:0} }
+      .cursor { fill:#00ff41; animation:blink 1s step-end infinite; }
+      .scanline { fill:none; stroke:#00ff4115; stroke-width:1; }
+      .mono { font-family:'Courier New',Courier,monospace; }
+      .r1 { animation:fall1 2.4s linear infinite 0.0s; }
+      .r2 { animation:fall2 3.1s linear infinite 0.3s; }
+      .r3 { animation:fall3 2.7s linear infinite 0.7s; }
+      .r4 { animation:fall4 3.5s linear infinite 1.1s; }
+      .r5 { animation:fall5 2.1s linear infinite 1.5s; }
+      .r6 { animation:fall1 3.3s linear infinite 0.5s; }
+      .r7 { animation:fall2 2.6s linear infinite 0.9s; }
+      .r8 { animation:fall3 3.8s linear infinite 0.2s; }
+      .r9 { animation:fall4 2.3s linear infinite 1.3s; }
+      .r10{ animation:fall5 3.0s linear infinite 1.8s; }
+      .r11{ animation:fall1 2.9s linear infinite 0.6s; }
+      .r12{ animation:fall2 2.2s linear infinite 1.0s; }
+      .r13{ animation:fall3 3.6s linear infinite 0.4s; }
+      .r14{ animation:fall4 2.5s linear infinite 1.6s; }
+      .r15{ animation:fall5 3.2s linear infinite 0.8s; }
+      .r16{ animation:fall1 2.8s linear infinite 1.2s; }
+      .r17{ animation:fall2 3.4s linear infinite 0.1s; }
+      .r18{ animation:fall3 2.0s linear infinite 1.7s; }
+      .r19{ animation:fall4 3.7s linear infinite 0.4s; }
+      .r20{ animation:fall5 2.4s linear infinite 2.0s; }
+      .r21{ animation:fall1 3.1s linear infinite 0.7s; }
+      .r22{ animation:fall2 2.6s linear infinite 1.4s; }
+      .r23{ animation:fall3 3.0s linear infinite 0.3s; }
+      .r24{ animation:fall4 2.7s linear infinite 1.9s; }
+      .r25{ animation:fall5 3.3s linear infinite 0.6s; }
+      .r26{ animation:fall1 2.2s linear infinite 1.1s; }
+      .r27{ animation:fall2 3.5s linear infinite 0.0s; }
+      .r28{ animation:fall3 2.9s linear infinite 1.5s; }
+      .r29{ animation:fall4 2.4s linear infinite 0.9s; }
+      .r30{ animation:fall5 3.0s linear infinite 2.2s; }
+      .t1  { animation:fadein .01s  0.10s both; }
+      .t2  { animation:fadein .01s  0.19s both; }
+      .t3  { animation:fadein .01s  0.28s both; }
+      .t4  { animation:fadein .01s  0.37s both; }
+      .t5  { animation:fadein .01s  0.46s both; }
+      .t6  { animation:fadein .01s  0.55s both; }
+      .t7  { animation:fadein .01s  0.75s both; }
+      .t8  { animation:fadein .01s  0.84s both; }
+      .t9  { animation:fadein .01s  0.93s both; }
+      .t10 { animation:fadein .01s  1.02s both; }
+      .t11 { animation:fadein .01s  1.11s both; }
+      .t12 { animation:fadein .01s  1.20s both; }
+      .t13 { animation:fadein .01s  1.29s both; }
+      .t14 { animation:fadein .01s  1.38s both; }
+      .t15 { animation:fadein .01s  1.47s both; }
+      .t16 { animation:fadein .01s  1.56s both; }
+      .t17 { animation:fadein .01s  1.65s both; }
+      .t18 { animation:fadein .01s  1.85s both; }
+      .t19 { animation:fadein .01s  1.94s both; }
+      .t20 { animation:fadein .01s  2.03s both; }
+      .t21 { animation:fadein .01s  2.12s both; }
+      .t22 { animation:fadein .01s  2.21s both; }
+      .t23 { animation:fadein .01s  2.30s both; }
+      .t24 { animation:fadein .01s  2.39s both; }
+      .t25 { animation:fadein .01s  2.48s both; }
+      .t26 { animation:fadein .01s  2.57s both; }
+      .t27 { animation:fadein .01s  2.66s both; }
+      .t28 { animation:fadein .01s  2.75s both; }
+      .t29 { animation:fadein .01s  2.84s both; }
+      .t30 { animation:fadein .01s  2.93s both; }
+      .t31 { animation:fadein .01s  3.13s both; }
+      .t32 { animation:fadein .01s  3.22s both; }
+      .t33 { animation:fadein .01s  3.31s both; }
+      .t34 { animation:fadein .01s  3.40s both; }
+      .t35 { animation:fadein .01s  3.49s both; }
+      .t36 { animation:fadein .01s  3.58s both; }
+      .t37 { animation:fadein .01s  3.67s both; }
+      .t38 { animation:fadein .01s  3.76s both; }
+      .t39 { animation:fadein .01s  3.85s both; }
+      .t40 { animation:fadein .01s  3.94s both; }
+      .t41 { animation:fadein .01s  4.03s both; }
+      .t42 { animation:fadein .01s  4.12s both; }
+      .t43 { animation:fadein .01s  4.21s both; }
+      .t44 { animation:fadein .01s  4.30s both; }
+      .t45 { animation:fadein .01s  4.39s both; }
+      .t46 { animation:fadein .01s  4.48s both; }
+      .t47 { animation:fadein .01s  4.57s both; }
+      .t48 { animation:fadein .01s  4.66s both; }
+      .t49 { animation:fadein .01s  4.75s both; }
+      .t50 { animation:fadein .01s  4.90s both; }
+      .t51 { animation:fadein .01s  4.99s both; }
+      .t52 { animation:fadein .01s  5.08s both; }
+      .t53 { animation:fadein .01s  5.17s both; }
+      .t54 { animation:fadein .01s  5.26s both; }
+      .t55 { animation:fadein .01s  5.35s both; }
+      .t56 { animation:fadein .01s  5.44s both; }
+      .t57 { animation:fadein .01s  5.53s both; }
+      .t58 { animation:fadein .01s  5.62s both; }
+      .tshow { animation:fadein .01s  5.85s both; }
+    </style>
+    <linearGradient id="bgr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a160c"/>
+      <stop offset="100%" stop-color="#050d07"/>
+    </linearGradient>
+    <clipPath id="cp"><rect width="680" height="240" rx="10"/></clipPath>
+  </defs>
+
+  <rect width="680" height="240" fill="url(#bgr)" rx="10"/>
+  <line class="scanline" x1="0" y1="12"  x2="680" y2="12"/>
+  <line class="scanline" x1="0" y1="24"  x2="680" y2="24"/>
+  <line class="scanline" x1="0" y1="36"  x2="680" y2="36"/>
+  <line class="scanline" x1="0" y1="48"  x2="680" y2="48"/>
+  <line class="scanline" x1="0" y1="60"  x2="680" y2="60"/>
+  <line class="scanline" x1="0" y1="72"  x2="680" y2="72"/>
+  <line class="scanline" x1="0" y1="84"  x2="680" y2="84"/>
+  <line class="scanline" x1="0" y1="96"  x2="680" y2="96"/>
+  <line class="scanline" x1="0" y1="108" x2="680" y2="108"/>
+  <line class="scanline" x1="0" y1="120" x2="680" y2="120"/>
+  <line class="scanline" x1="0" y1="132" x2="680" y2="132"/>
+  <line class="scanline" x1="0" y1="144" x2="680" y2="144"/>
+  <line class="scanline" x1="0" y1="156" x2="680" y2="156"/>
+  <line class="scanline" x1="0" y1="168" x2="680" y2="168"/>
+  <line class="scanline" x1="0" y1="180" x2="680" y2="180"/>
+  <line class="scanline" x1="0" y1="192" x2="680" y2="192"/>
+  <line class="scanline" x1="0" y1="204" x2="680" y2="204"/>
+  <line class="scanline" x1="0" y1="216" x2="680" y2="216"/>
+  <line class="scanline" x1="0" y1="228" x2="680" y2="228"/>
+
+  <g clip-path="url(#cp)">
+    <circle class="r1"  cx="18"  cy="0" r="1.2" fill="#00ff41"/>
+    <circle class="r2"  cx="41"  cy="0" r="1.0" fill="#00cc33"/>
+    <circle class="r3"  cx="67"  cy="0" r="1.4" fill="#00ff41"/>
+    <circle class="r4"  cx="95"  cy="0" r="0.9" fill="#00cc33"/>
+    <circle class="r5"  cx="120" cy="0" r="1.2" fill="#00ff41"/>
+    <circle class="r6"  cx="148" cy="0" r="1.0" fill="#00cc33"/>
+    <circle class="r7"  cx="173" cy="0" r="1.3" fill="#00ff41"/>
+    <circle class="r8"  cx="200" cy="0" r="0.8" fill="#00cc33"/>
+    <circle class="r9"  cx="228" cy="0" r="1.2" fill="#00ff41"/>
+    <circle class="r10" cx="254" cy="0" r="1.0" fill="#00cc33"/>
+    <circle class="r11" cx="280" cy="0" r="1.4" fill="#00ff41"/>
+    <circle class="r12" cx="306" cy="0" r="0.9" fill="#00cc33"/>
+    <circle class="r13" cx="332" cy="0" r="1.1" fill="#00ff41"/>
+    <circle class="r14" cx="358" cy="0" r="1.3" fill="#00cc33"/>
+    <circle class="r15" cx="384" cy="0" r="1.0" fill="#00ff41"/>
+    <circle class="r16" cx="410" cy="0" r="0.8" fill="#00cc33"/>
+    <circle class="r17" cx="436" cy="0" r="1.2" fill="#00ff41"/>
+    <circle class="r18" cx="462" cy="0" r="1.4" fill="#00cc33"/>
+    <circle class="r19" cx="488" cy="0" r="1.0" fill="#00ff41"/>
+    <circle class="r20" cx="514" cy="0" r="0.9" fill="#00cc33"/>
+    <circle class="r21" cx="540" cy="0" r="1.3" fill="#00ff41"/>
+    <circle class="r22" cx="566" cy="0" r="1.1" fill="#00cc33"/>
+    <circle class="r23" cx="592" cy="0" r="1.0" fill="#00ff41"/>
+    <circle class="r24" cx="618" cy="0" r="0.8" fill="#00cc33"/>
+    <circle class="r25" cx="644" cy="0" r="1.2" fill="#00ff41"/>
+    <circle class="r26" cx="30"  cy="0" r="0.9" fill="#00ff41"/>
+    <circle class="r27" cx="80"  cy="0" r="1.1" fill="#00cc33"/>
+    <circle class="r28" cx="161" cy="0" r="1.0" fill="#00ff41"/>
+    <circle class="r29" cx="340" cy="0" r="0.8" fill="#00cc33"/>
+    <circle class="r30" cx="656" cy="0" r="1.3" fill="#00ff41"/>
+  </g>
+
+  <text class="mono" x="24" y="42" fill="#006622" font-size="12px">~/github $</text>
+  <text class="mono" x="96" y="42" fill="#00ff41" font-size="14px" font-weight="bold">
+    <tspan class="t1">w</tspan><tspan class="t2">h</tspan><tspan class="t3">o</tspan><tspan class="t4">a</tspan><tspan class="t5">m</tspan><tspan class="t6">i</tspan>
+  </text>
+
+  <text class="mono" x="24" y="64" fill="#00cc33" font-size="12px">
+    <tspan class="t7">S</tspan><tspan class="t8">a</tspan><tspan class="t9">i</tspan><tspan class="t10"> </tspan><tspan class="t11">B</tspan><tspan class="t12">i</tspan><tspan class="t13">n</tspan><tspan class="t14">a</tspan><tspan class="t15">y</tspan><tspan class="t16">a</tspan><tspan class="t17">k</tspan>
+  </text>
+
+  <text class="mono" x="24" y="90" fill="#006622" font-size="12px">~/github $</text>
+  <text class="mono" x="96" y="90" fill="#00ff41" font-size="14px" font-weight="bold">
+    <tspan class="t18">s</tspan><tspan class="t19">k</tspan><tspan class="t20">i</tspan><tspan class="t21">l</tspan><tspan class="t22">l</tspan><tspan class="t23">s</tspan><tspan class="t24"> </tspan><tspan class="t25">-</tspan><tspan class="t26">-</tspan><tspan class="t27">l</tspan><tspan class="t28">i</tspan><tspan class="t29">s</tspan><tspan class="t30">t</tspan>
+  </text>
+
+  <text class="mono" x="24" y="112" fill="#00cc33" font-size="11px">
+    <tspan class="t31">R</tspan><tspan class="t32">e</tspan><tspan class="t33">a</tspan><tspan class="t34">c</tspan><tspan class="t35">t</tspan><tspan class="t36"> </tspan><tspan class="t37">·</tspan><tspan class="t38"> </tspan><tspan class="t39">N</tspan><tspan class="t40">o</tspan><tspan class="t41">d</tspan><tspan class="t42">e</tspan><tspan class="t43">.</tspan><tspan class="t44">j</tspan><tspan class="t45">s</tspan><tspan class="t46"> </tspan><tspan class="t47">·</tspan><tspan class="t48"> </tspan><tspan class="t49">M</tspan><tspan class="t50">y</tspan><tspan class="t51">S</tspan><tspan class="t52">Q</tspan><tspan class="t53">L</tspan><tspan class="t54"> </tspan><tspan class="t55">·</tspan><tspan class="t56"> </tspan><tspan class="t57">D</tspan><tspan class="t58">j</tspan><tspan class="tshow">ango · AI/ML</tspan>
+  </text>
+
+  <text class="mono tshow" x="24" y="138" fill="#006622" font-size="12px">~/github $</text>
+  <text class="mono tshow" x="96" y="138" fill="#00ff41" font-size="14px" font-weight="bold">reach_out</text>
+
+  <text class="mono tshow" x="24" y="160" fill="#00cc33" font-size="11px">github.com/saibinayak</text>
+  <text class="mono tshow" x="240" y="160" fill="#006622" font-size="11px">|</text>
+  <text class="mono tshow" x="256" y="160" fill="#00cc33" font-size="11px">linkedin.com/in/saibinayak</text>
+
+  <rect class="cursor tshow" x="24" y="178" width="7" height="12" rx="1"/>
+  <rect width="680" height="240" rx="10" fill="none" stroke="#00ff4135" stroke-width="1.5"/>
+</svg>
