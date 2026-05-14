@@ -101,7 +101,16 @@
       .t56 { animation:fadein .01s  5.44s both; }
       .t57 { animation:fadein .01s  5.53s both; }
       .t58 { animation:fadein .01s  5.62s both; }
-      .tshow { animation:fadein .01s  5.85s both; }
+      .t59 { animation:fadein .01s  5.71s both; }
+      .t60 { animation:fadein .01s  5.80s both; }
+      .t61 { animation:fadein .01s  5.89s both; }
+      .t62 { animation:fadein .01s  5.98s both; }
+      .t63 { animation:fadein .01s  6.07s both; }
+      .t64 { animation:fadein .01s  6.16s both; }
+      .t65 { animation:fadein .01s  6.25s both; }
+      .t66 { animation:fadein .01s  6.34s both; }
+      .t67 { animation:fadein .01s  6.43s both; }
+      .t68 { animation:fadein .01s  6.53s both; }
     </style>
     <linearGradient id="bgr" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a160c"/>
@@ -179,15 +188,15 @@
   </text>
 
   <text class="mono" x="24" y="112" fill="#00cc33" font-size="11px">
-    <tspan class="t31">R</tspan><tspan class="t32">e</tspan><tspan class="t33">a</tspan><tspan class="t34">c</tspan><tspan class="t35">t</tspan><tspan class="t36"> </tspan><tspan class="t37">·</tspan><tspan class="t38"> </tspan><tspan class="t39">N</tspan><tspan class="t40">o</tspan><tspan class="t41">d</tspan><tspan class="t42">e</tspan><tspan class="t43">.</tspan><tspan class="t44">j</tspan><tspan class="t45">s</tspan><tspan class="t46"> </tspan><tspan class="t47">·</tspan><tspan class="t48"> </tspan><tspan class="t49">M</tspan><tspan class="t50">y</tspan><tspan class="t51">S</tspan><tspan class="t52">Q</tspan><tspan class="t53">L</tspan><tspan class="t54"> </tspan><tspan class="t55">·</tspan><tspan class="t56"> </tspan><tspan class="t57">D</tspan><tspan class="t58">j</tspan><tspan class="tshow">ango · AI/ML</tspan>
+    <tspan class="t31">R</tspan><tspan class="t32">e</tspan><tspan class="t33">a</tspan><tspan class="t34">c</tspan><tspan class="t35">t</tspan><tspan class="t36"> </tspan><tspan class="t37">·</tspan><tspan class="t38"> </tspan><tspan class="t39">N</tspan><tspan class="t40">o</tspan><tspan class="t41">d</tspan><tspan class="t42">e</tspan><tspan class="t43">.</tspan><tspan class="t44">j</tspan><tspan class="t45">s</tspan><tspan class="t46"> </tspan><tspan class="t47">·</tspan><tspan class="t48"> </tspan><tspan class="t49">M</tspan><tspan class="t50">y</tspan><tspan class="t51">S</tspan><tspan class="t52">Q</tspan><tspan class="t53">L</tspan><tspan class="t54"> </tspan><tspan class="t55">·</tspan><tspan class="t56"> </tspan><tspan class="t57">D</tspan><tspan class="t58">j</tspan><tspan class="t59">a</tspan><tspan class="t60">n</tspan><tspan class="t61">g</tspan><tspan class="t62">o</tspan> <tspan class="t63">·</tspan> <tspan class="t64">A</tspan><tspan class="t65">I</tspan><tspan class="t66">/</tspan><tspan class="t67">M</tspan><tspan class="t68">L</tspan>
   </text>
 
   <text class="mono tshow" x="24" y="138" fill="#006622" font-size="12px">~/github $</text>
   <text class="mono tshow" x="96" y="138" fill="#00ff41" font-size="14px" font-weight="bold">reach_out</text>
 
-  <text class="mono tshow" x="24" y="160" fill="#00cc33" font-size="11px">github.com/saibinayak</text>
+  <text class="mono tshow" x="24" y="160" fill="#00cc33" font-size="11px">github.com/Sai-Binayak</text>
   <text class="mono tshow" x="240" y="160" fill="#006622" font-size="11px">|</text>
-  <text class="mono tshow" x="256" y="160" fill="#00cc33" font-size="11px">linkedin.com/in/saibinayak</text>
+  <text class="mono tshow" x="256" y="160" fill="#00cc33" font-size="11px">sai0binayak99@gmail.com</text>
 
   <rect class="cursor tshow" x="24" y="178" width="7" height="12" rx="1"/>
   <rect width="680" height="240" rx="10" fill="none" stroke="#00ff4135" stroke-width="1.5"/>
