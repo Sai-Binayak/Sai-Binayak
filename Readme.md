@@ -1,13 +1,8 @@
 ### 🙇 Ｈｅｌｌｏ　Ｔｈｅｒｅ　．．．
 
-- 🧑‍💻 I’m currently working on : *System design, Microservices*
-- 🧠 I’m currently learning : *Typescript, Docker, Ml models*
-- 🤔 I’m looking for help with : *Internships , Fullstack Projects*
-- 🤙 How to reach me : sai0binayak99@gmail.com
-- ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
-- 
-
-
+<p align="center">
+  <img src="./github-banner.svg" alt="Terminal Banner" />
+</p>
 
 
 ### 🈴 GitHub Stats:
