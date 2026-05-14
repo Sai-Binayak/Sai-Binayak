@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sai-Binayak&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sai-Binayak&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>  -->
 
 ### 🎖️ Badges : 
 [![An image of @sai_binayak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sai_binayak)](https://holopin.io/@sai_binayak)
