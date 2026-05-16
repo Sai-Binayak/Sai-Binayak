@@ -192,11 +192,13 @@
   </text>
 
   <text class="mono tshow" x="24" y="138" fill="#006622" font-size="12px">~/github $</text>
-  <text class="mono tshow" x="96" y="138" fill="#00ff41" font-size="14px" font-weight="bold">reach_out</text>
+  <text class="mono tshow" x="96" y="138" fill="#00ff41" font-size="14px" font-weight="bold">reach_out_to_me</text>
 
   <text class="mono tshow" x="24" y="160" fill="#00cc33" font-size="11px">github.com/Sai-Binayak</text>
-  <text class="mono tshow" x="240" y="160" fill="#006622" font-size="11px">|</text>
-  <text class="mono tshow" x="256" y="160" fill="#00cc33" font-size="11px">sai0binayak99@gmail.com</text>
+  <text class="mono tshow" x="180" y="160" fill="#006622" font-size="11px">|</text>
+  <text class="mono tshow" x="196" y="160" fill="#00cc33" font-size="11px">sai0binayak99@gmail.com</text>
+  <text class="mono tshow" x="360" y="160" fill="#006622" font-size="11px">|</text>
+  <text class="mono tshow" x="376" y="160" fill="#00cc33" font-size="11px">linkedin.com/in/sai-binayak-17b900255/</text>
 
   <rect class="cursor tshow" x="24" y="178" width="7" height="12" rx="1"/>
   <rect width="680" height="240" rx="10" fill="none" stroke="#00ff4135" stroke-width="1.5"/>
